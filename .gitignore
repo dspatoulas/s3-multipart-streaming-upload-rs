@@ -1,0 +1,16 @@
+# Jetbrains
+.idea/
+
+# dotenv environment variables file
+.env
+.env.test
+
+# Rust
+/target
+Cargo.lock
+
+# Terraform
+.terraform.lock.hcl
+terraform.tfstate*
+tfplan.json
+terraform/.terraform
